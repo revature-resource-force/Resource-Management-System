@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "rms-config": "https://github.com/1809-Spark-usf/rms-config.git",
+    "rms-discovery": "https://github.com/1809-Spark-usf/rms-discovery.git",
+    "rms-gateway": "https://github.com/1809-Spark-usf/rms-gateway.git",
+    "reservation-service": "https://github.com/1809-Spark-usf/rms-reservation-service.git",
+    "resource-service": "https://github.com/1809-Spark-usf/rms-resource-service.git",
+    "rms-webclient": "https://github.com/1809-Spark-usf/rms-webclient.git"
+  }
+}
