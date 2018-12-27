@@ -4,3 +4,7 @@ rms-gateway
 reservation-service
 resource-service
 rms-webclient
+/.metadata/
+RemoteSystemTempFiles/
+.recommenders
+servers/
