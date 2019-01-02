@@ -5,6 +5,8 @@
     "rms-gateway": "https://github.com/1809-Spark-usf/rms-gateway.git",
     "reservation-service": "https://github.com/1809-Spark-usf/rms-reservation-service.git",
     "resource-service": "https://github.com/1809-Spark-usf/rms-resource-service.git",
-    "rms-webclient": "https://github.com/1809-Spark-usf/rms-webclient.git"
+    "rms-webclient": "https://github.com/1809-Spark-usf/rms-webclient.git",
+    "admin-login-service": "https://github.com/1809-Spark-usf/rms-admin-login-service.git",
+    "admin-registration-service": "https://github.com/1809-Spark-usf/rms-admin-registration-service.git"
   }
 }

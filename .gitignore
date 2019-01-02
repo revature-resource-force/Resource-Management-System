@@ -8,3 +8,5 @@ rms-webclient
 RemoteSystemTempFiles/
 .recommenders
 servers/
+admin-login-service
+admin-registration-service
