@@ -9,6 +9,7 @@
     "admin-login-service": "https://github.com/1809-Spark-usf/rms-admin-login-service.git",
     "admin-registration-service": "https://github.com/1809-Spark-usf/rms-admin-registration-service.git",
     "email-service": "https://github.com/1809-Spark-usf/rms-email-service.git",
-    "authentication-service": "https://github.com/1809-Spark-usf/authentication-service.git"
+    "authentication-service": "https://github.com/1809-Spark-usf/authentication-service.git",
+    "reminder-service": "https://github.com/1809-Spark-usf/reminder-service.git"
   }
 }
