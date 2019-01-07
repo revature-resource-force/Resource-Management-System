@@ -12,3 +12,4 @@ admin-login-service
 admin-registration-service
 email-service
 authentication-service
+reminder-service
