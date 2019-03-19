@@ -3,12 +3,12 @@
     "rms-config": "https://github.com/1809-Spark-usf/rms-config.git",
     "rms-discovery": "https://github.com/1809-Spark-usf/rms-discovery.git",
     "rms-gateway": "https://github.com/1809-Spark-usf/rms-gateway.git",
-    "reservation-service": "https://github.com/1809-Spark-usf/rms-reservation-service.git",
-    "resource-service": "https://github.com/1809-Spark-usf/rms-resource-service.git",
+    "rms-reservation-service": "https://github.com/1809-Spark-usf/rms-reservation-service.git",
+    "rms-resource-service": "https://github.com/1809-Spark-usf/rms-resource-service.git",
     "rms-webclient": "https://github.com/1809-Spark-usf/rms-webclient.git",
-    "admin-login-service": "https://github.com/1809-Spark-usf/rms-admin-login-service.git",
-    "admin-registration-service": "https://github.com/1809-Spark-usf/rms-admin-registration-service.git",
-    "email-service": "https://github.com/1809-Spark-usf/rms-email-service.git",
+    "rms-admin-login-service": "https://github.com/1809-Spark-usf/rms-admin-login-service.git",
+    "rms-admin-registration-service": "https://github.com/1809-Spark-usf/rms-admin-registration-service.git",
+    "rms-email-service": "https://github.com/1809-Spark-usf/rms-email-service.git",
     "authentication-service": "https://github.com/1809-Spark-usf/authentication-service.git",
     "reminder-service": "https://github.com/1809-Spark-usf/reminder-service.git"
   }
